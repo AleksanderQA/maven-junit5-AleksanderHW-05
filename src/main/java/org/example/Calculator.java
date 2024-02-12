@@ -2,6 +2,7 @@ package org.example;
 
 public class Calculator {
 
+        // 5th homework methods
     public int sumOfTwoIntegers (int num1, int num2){
         return num1 + num2;
     }
@@ -24,5 +25,12 @@ public class Calculator {
 
     public boolean firstNumIsNotEqualToSecondNum (int num1, int num2){
         return num1 != num2;
+    }
+        //6th Homework methods
+    public float biggerNumberDividedBySmaller ( float num3, float num4) {
+        return num3/num4;
+    }
+    public float multiplicationOfTwoNumbers (float num3,float num4) {
+        return num3*num4;
     }
 }
