@@ -1,5 +1,6 @@
 # Test Case :page_facing_up:  for  - *CalculatorApp class* 
 
+
 | №  | Check name                                                        | Expected result                           | Status |
 |----|-------------------------------------------------------------------|-------------------------------------------|--------|
 | 1  | Sum of two positive integers                                      | gives positive result                     | Passed |
@@ -23,3 +24,5 @@
 | 19 | Multiplication of negative double value and positive double value | gives multiplicated negative double value | Passed |
 | 20 | Multiplication of two deouble negative values                     | gives positive double value               | Passed |
 | 21 | Multiplication first double value to zero value                   | gives in result 0                         | Passed |
+
+
