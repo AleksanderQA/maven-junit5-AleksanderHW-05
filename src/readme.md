@@ -14,12 +14,3 @@
 | 10 | Second number is bigger than first number            |exp. 10>5|Passed
 | 11 | Both numbers are equal to each other                 |exp. 10=10|Passed
 | 12 | First number is not equal to second number           |exp. 10!=9|Passed
-| 13 | Bigger double value devided by smaller double  value |gives double value result|Passed
-| 14 | Smaller double value devided by bigger double value  |gives double value result|Passed
-| 15 |Negative double value divided by positive double value|gives negative double value result|Passed
-| 16 |Positive double value divided by negative double value|gives negative double value result|Passed
-| 16 |Two double negative values divided between them|gives positive double result|Passed
-| 18 |Multiplication of two double positive values|gives double positive value result|Passed
-| 19 |Multiplication of negative double value and positive double value|gives multiplicated negative double value|Passed
-| 20 |Multiplication of two deouble negative values|gives positive double value|Passed
-| 21 |Multiplication first double value to zero value|gives in result 0|Passed
